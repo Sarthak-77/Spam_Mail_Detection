@@ -21,8 +21,8 @@ Deployment Ready: Can be easily integrated into web applications.
 
 # Results
 
-Model Used: Logistic Regression
+Model Used: Random Forest Classifier
 
-Accuracy: 95% on test data.
+Accuracy: 97% on test data.
 
 Evaluation Metrics: Precision, Recall, F1-Score, and Confusion Matrix.
